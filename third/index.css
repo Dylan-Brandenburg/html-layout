@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background-color:lightgray;
+}
+div{
+    height: 150px;
+    width: 100%;
+}
+.light-gray-box{
+    padding-top: 10px;
+    padding-left: 25px;
+    height: 120px;
+}
+.small-blue-box{
+    height: 90px;
+    width: 90px;
+    background-color: rgb(55, 145, 219);
+}
+.white-box{
+    background-color: rgb(255, 255, 255);
+    height: 250px;
+    padding: 50px;
+    font-size: 1.50em;
+}
+.light-blue-box{
+    background-color: rgb(65,133,222);
+}
+.light-teal-box{
+    background-color: rgb(70,223,186);
+}
+.light-green-box{
+    background-color: rgb(174, 226, 124);
+}
+.light-yellow-box{
+    background-color: rgb(247,227,27);
+}
